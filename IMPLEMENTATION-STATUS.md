@@ -171,6 +171,29 @@
 
 ---
 
+## ✅ Phase 11: Manipulation (COMPLETE)
+
+### Completed Tasks (2025-12-13)
+
+| ID | Task | Status |
+|----|------|--------|
+| - | Draft Chapter 11 Section 1: MoveIt 2 Architecture | ✅ 460 words |
+| - | Draft Chapter 11 Section 2: Motion Planning for Humanoid Arms | ✅ 550 words |
+| - | Draft Chapter 11 Section 3: Grasp Planning and Execution | ✅ 540 words |
+| - | Draft Chapter 11 Section 4: Pick-and-Place and Dual-Arm Coordination | ✅ 450 words |
+| - | Add citations and validate Chapter 11 | ✅ 1 citation added (Embodied Learning survey) |
+
+### Chapter Status
+
+**Chapter 11: Object Manipulation with MoveIt 2 (2,000 words)**
+- Section 11.1: MoveIt 2 Architecture (~460 words)
+- Section 11.2: Motion Planning for Humanoid Arms (~550 words)
+- Section 11.3: Grasp Planning and Execution (~540 words)
+- Section 11.4: Pick-and-Place and Dual-Arm Coordination (~450 words)
+- Citations: 1 source (Springer - Embodied Learning for Object-centric Robotic Manipulation, 2025)
+
+---
+
 ## ⏳ Pending Tasks (Require User Action or External Tools)
 
 ### What Was Completed Today (2025-12-10)
