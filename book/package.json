@@ -16,7 +16,8 @@
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
     "typecheck": "tsc",
-    "pdf": "echo 'PDF generation placeholder - install docusaurus-prince-pdf'"
+    "pdf": "echo 'PDF generation placeholder - install docusaurus-prince-pdf'",
+    "gh-pages": "docusaurus deploy"
   },
   "dependencies": {
     "@docusaurus/core": "^3.5.0",
